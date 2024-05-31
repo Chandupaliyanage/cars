@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Permanent+Marker&display=swap');
+body{
+    background-image: url("/img/pexels-alexgtacar-745150-1592384.jpg ");
+    background-position: center;
+    background-size: 1000px; 
+    background-attachment: fixed;
+}
+.cha{
+    color: yellow;
+}
+
+.chandu{
+    color: greenyellow;
+}
+.c{
+    color: bisque;
+
+}
+h1{
+    font-family: "Permanent Marker", cursive;
+}
+
+ul{
+    font-family: "Alfa Slab One", serif;
+}
+.car{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 700px;
+    bottom: 350px;
+}
