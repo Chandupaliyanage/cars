@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Permanent+Marker&display=swap');
 body{
-    background-image: url("/img/pexels-alexgtacar-745150-1592384.jpg ");
+    background-image: url("../img/bg\ img.jpg");
     background-position: center;
     background-size: 1000px; 
     background-attachment: fixed;
 }
 .cha{
-    color: yellow;
+    color: rgb(220, 239, 132);
 }
 
 .chandu{
