@@ -5,6 +5,7 @@ body{
     background-position: center;
     background-size: 1000px; 
     background-attachment: fixed;
+    background: "col-md-1 col-sm-12";
 }
 .cha{
     color: rgb(220, 239, 132);
